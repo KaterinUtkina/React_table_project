@@ -1,0 +1,17 @@
+.preloader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    transform: translateX(-50px) translateY(-50px);
+}
+
+.list{
+    width: 500px;
+}
+
+.list textarea{
+    width: 300px;
+    height: 150px;
+    margin-left: 5px;
+}

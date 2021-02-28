@@ -1,0 +1,34 @@
+.selectedPage {
+    outline: 2px solid rgba(0, 248, 239, 0.5);
+}
+
+.head_item {
+    cursor: pointer;
+}
+
+.key_sort {
+    font-weight: normal;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.button_back {
+    margin: 20px;
+}
+
+.form_table {
+    width:1020px;
+    margin: 10px 0 50px 100px;
+    padding: 5px;
+    -webkit-box-shadow: 0 5px 10px 2px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0 5px 10px 2px rgba(34, 60, 80, 0.2);
+    box-shadow: 0 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+
+.button_form{
+    margin-top: 10px;
+}
+
+.wrapper_table{
+    margin-top: 10px;
+}

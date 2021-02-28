@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55a13f5d-73ce-424e-90c1-37ce681e1c09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1omuzbobWeT8JozMuTtwbFEZAO5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project_figma/frontend" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ekaterina\WebstormProjects\future\src\Components\SearchBar" />
+      <recent name="C:\Users\ekaterina\WebstormProjects\future\src\utils" />
+      <recent name="C:\Users\ekaterina\WebstormProjects\future\src" />
+      <recent name="C:\Users\ekaterina\WebstormProjects\future\src\Components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ekaterina\WebstormProjects\future\src\Components" />
+      <recent name="C:\Users\ekaterina\WebstormProjects\future\src\Components\Common" />
+      <recent name="C:\Users\ekaterina\WebstormProjects\future\src\utils" />
+      <recent name="C:\Users\ekaterina\WebstormProjects\future\src\redux" />
+      <recent name="C:\Users\ekaterina\WebstormProjects\future\src\CurrentUser" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55a13f5d-73ce-424e-90c1-37ce681e1c09" name="Default Changelist" comment="" />
+      <created>1613904349976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613904349976</updated>
+      <workItem from="1613904353931" duration="26267000" />
+      <workItem from="1614078858895" duration="22403000" />
+      <workItem from="1614188124806" duration="8935000" />
+      <workItem from="1614277041348" duration="9146000" />
+      <workItem from="1614415076544" duration="5226000" />
+      <workItem from="1614420780647" duration="42000" />
+      <workItem from="1614498150095" duration="9779000" />
+      <workItem from="1614509812748" duration="655000" />
+      <workItem from="1614510555800" duration="9150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="454" key="#ESLint" timestamp="1614502684772">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="326" y="454" key="#ESLint/0.0.1366.738@0.0.1366.738" timestamp="1614502684772" />
+    <state x="10" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614505816292">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="10" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1614505816292" />
+    <state x="210" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614193957866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="210" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1614193957866" />
+    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1613908331335">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1613908331335" />
+    <state x="119" y="107" key="FileChooserDialogImpl" timestamp="1614515683276">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="119" y="107" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1614515683276" />
+    <state width="1080" height="147" key="GridCell.Tab.0.bottom" timestamp="1613925129520">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1080" height="147" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1613925129520" />
+    <state width="1080" height="147" key="GridCell.Tab.0.center" timestamp="1613925129520">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1080" height="147" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1613925129520" />
+    <state width="1080" height="147" key="GridCell.Tab.0.left" timestamp="1613925129519">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1080" height="147" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1613925129519" />
+    <state width="1080" height="147" key="GridCell.Tab.0.right" timestamp="1613925129520">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1080" height="147" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1613925129520" />
+    <state x="781" y="0" width="585" height="738" key="find.popup" timestamp="1614284473877">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="781" y="0" width="585" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1614284473877" />
+    <state x="203" y="163" key="run.anything.popup" timestamp="1614513159349">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="203" y="163" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1614513159349" />
+    <state x="232" y="59" width="672" height="676" key="search.everywhere.popup" timestamp="1614515587425">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="232" y="59" width="672" height="676" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1614515587425" />
+  </component>
+</project>
